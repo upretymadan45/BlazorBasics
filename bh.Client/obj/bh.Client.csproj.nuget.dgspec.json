@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/madanuprety/Documents/blazorserver/bh/bh.Client/bh.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/madanuprety/Documents/blazorserver/bh/bh.Client/bh.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madanuprety/Documents/blazorserver/bh/bh.Client/bh.Client.csproj",
+        "projectName": "bh.Client",
+        "projectPath": "/Users/madanuprety/Documents/blazorserver/bh/bh.Client/bh.Client.csproj",
+        "packagesPath": "/Users/madanuprety/.nuget/packages/",
+        "outputPath": "/Users/madanuprety/Documents/blazorserver/bh/bh.Client/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/madanuprety/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bh.Shared.csproj": {
+                "projectPath": "/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bh.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Blazor": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview6.19307.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bh.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bh.Shared.csproj",
+        "projectName": "bh.Shared",
+        "projectPath": "/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bh.Shared.csproj",
+        "packagesPath": "/Users/madanuprety/.nuget/packages/",
+        "outputPath": "/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/madanuprety/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0-preview6.19304.10, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

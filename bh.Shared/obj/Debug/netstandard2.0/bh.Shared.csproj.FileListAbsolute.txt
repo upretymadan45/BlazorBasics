@@ -1,0 +1,9 @@
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bin/Debug/netstandard2.0/bh.Shared.deps.json
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bin/Debug/netstandard2.0/bh.Shared.dll
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/bin/Debug/netstandard2.0/bh.Shared.pdb
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/obj/Debug/netstandard2.0/bh.Shared.csprojAssemblyReference.cache
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/obj/Debug/netstandard2.0/bh.Shared.csproj.CoreCompileInputs.cache
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/obj/Debug/netstandard2.0/bh.Shared.AssemblyInfoInputs.cache
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/obj/Debug/netstandard2.0/bh.Shared.AssemblyInfo.cs
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/obj/Debug/netstandard2.0/bh.Shared.dll
+/Users/madanuprety/Documents/blazorserver/bh/bh.Shared/obj/Debug/netstandard2.0/bh.Shared.pdb
